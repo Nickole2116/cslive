@@ -1,2 +1,3 @@
 # cslive
-WhatsApp &amp; Telegram Live Chat System
+Customer Support Omnichannel Platform
+Integrated Telegram & WhatsApp APIs with AI-powered chat analysis and message archiving
